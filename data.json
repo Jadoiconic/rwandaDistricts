@@ -1,0 +1,60 @@
+{
+    "provinces": [
+      {
+        "name": "Kigali",
+        "districts": [
+          "Gasabo",
+          "Kicukiro",
+          "Nyarugenge"
+        ]
+      },
+      {
+        "name": "Northern",
+        "districts": [
+          "Burera",
+          "Gakenke",
+          "Gicumbi",
+          "Musanze",
+          "Rulindo"
+        ]
+      },
+      {
+        "name": "Eastern",
+        "districts": [
+          "Bugesera",
+          "Gatsibo",
+          "Kayonza",
+          "Kirehe",
+          "Ngoma",
+          "Nyagatare",
+          "Rwamagana"
+        ]
+      },
+      {
+        "name": "Southern",
+        "districts": [
+          "Gisagara",
+          "Huye",
+          "Kamonyi",
+          "Muhanga",
+          "Nyamagabe",
+          "Nyanza",
+          "Nyaruguru",
+          "Ruhango"
+        ]
+      },
+      {
+        "name": "Western",
+        "districts": [
+          "Karongi",
+          "Ngororero",
+          "Nyabihu",
+          "Nyamasheke",
+          "Rubavu",
+          "Rusizi",
+          "Rutsiro"
+        ]
+      }
+    ]
+  }
+  
